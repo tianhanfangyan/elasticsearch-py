@@ -30,7 +30,7 @@
 
 ##### 8. 聚合记录
 
-- [bucket_record](./py2/bucket_record.py)
+- [bucket_record](./py/bucket_record.py)
 
 
 
